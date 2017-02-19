@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/mrjoelkemp/node-detective-es6",
   "dependencies": {
-    "node-source-walk": "^3.0.0"
+    "node-source-walk": "git+https://github.com/ranchoX/node-source-walk.git"
   },
   "devDependencies": {
     "jscs": "~2.4.0",
